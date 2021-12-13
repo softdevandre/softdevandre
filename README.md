@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub <img align="top" height="40" width="50" alt="Andre-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></h1>
+<h1 align="center">Welcome to my GitHub <a href="https://github.com/softdevandre" target="_blank"><img align="top" height="40" width="50" alt="Andre-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a></h1>
 
 <p align="center">🤓 - My name is André and I'm a software engineer;<br>
   📱 - At the moment I'm focusing on mobile development for Android;</p>
