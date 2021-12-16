@@ -13,13 +13,13 @@
 <p align="center">💻 - Here's some things that I know and have been learning:</p>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Andre-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"><b>+</b>
-  <img align="center" alt="Andre-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"><b>+</b>
-  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"><b>+</b>
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><b>+</b>
-  <img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"><b>+</b>
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><b>+</b>
-  <img align="center" alt="Andre-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <a href="https://developer.android.com/" target="_blank"><img align="center" alt="Andre-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a><b>+</b>
+  <a href="https://kotlinlang.org/" target="_blank"><img align="center" alt="Andre-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a><b>+</b>
+  <a href="https://devdocs.io/html/" target="_blank"><img align="center" alt="Andre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></a><b>+</b>
+  <a href="https://devdocs.io/css/" target="_blank"><img align="center" alt="Andre-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></a><b>+</b>
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a><b>+</b>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Andre-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a><b>+</b>
+  <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Andre-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></a>
 </div>
 
 ##
