@@ -2,12 +2,7 @@
 
 <p align="center">🤓 - My name is André and I'm a software engineer;<br>
   📱 - At the moment I'm focusing on mobile development for Android;</p>
-
-<!--<div align="center">
-  <a href="https://github.com/softdevandre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softdevandre&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevandre&layout=compact&langs_count=7&theme=gotham"/>
-</div>-->
+  
   ##
   
 <p align="center">💻 - Here's some things that I know and have been learning:</p>
@@ -20,6 +15,12 @@
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a><b>+</b>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Andre-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a><b>+</b>
   <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Andre-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></a>
+</div><br>
+
+<div align="center">
+  <a href="https://github.com/softdevandre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softdevandre&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevandre&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ##
