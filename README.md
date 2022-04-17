@@ -18,7 +18,10 @@
   <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Andre-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></a>
 </div><br>
 
-
+<div align="center">
+  <a href="https://github.com/softdevandre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=softdevandre&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=3ddc84&icon_color=a4c439&text_color=4285f4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdevandre&layout=default&langs_count=7&theme=gotham&hide_border=true&bg_color=ffffff00&title_color=3ddc844&icon_color=a4c439&text_color=4285f4&card_width=341"/></a></div>
 
 ##
 
