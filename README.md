@@ -5,7 +5,7 @@
   
   ##
   
-<p align="center">💻 - Here are some things I know and have been learning:</p>
+<p align="center">💻 - Here are some techs I know and have been learning:</p>
   
 <div align="center" style="display: inline_block"><br>
   <a href="https://developer.android.com/" target="_blank"><img align="center" alt="Andre-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a><b>+</b>
