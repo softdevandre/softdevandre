@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my GitHub <a href="https://github.com/softdevandre" target="_blank"><img align="top" height="40" width="50" alt="Andre-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a></h1>
 
 <p align="center">Hello there! <br>
-  My name is André and I'm an enthusiastic software engineer. <br>
-  I'm always open to new opportunities, so reach me if you want to build together! ;<br>
+  My name is André, I'm an enthusiastic Software Engineer. <br>
+  I'm always open to new opportunities, so reach me if you want to build together! <br>
   
   ##
   
