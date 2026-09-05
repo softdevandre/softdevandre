@@ -6,7 +6,7 @@
   
   ##
   
-<p align="center">💻 - Some technologies I've focusing in:</p>
+<p align="center">💻 - Some technologies I've been focusing in:</p>
   
 <div align="center" style="display: inline_block"><br>
   <a href="https://developer.android.com/" target="_blank"><img align="center" alt="Andre-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a><b>+</b>
