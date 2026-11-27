@@ -1,25 +1,42 @@
-<h1 align="center">Welcome to my GitHub <a href="https://github.com/softdevandre" target="_blank"><img align="top" height="40" width="50" alt="Andre-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a></h1>
+# Hi, I'm André Moraes Filho
 
-<p align="center">Hello there! <br>
-  My name is André and I'm an enthusiastic Software Engineer. <br>
-  I'm always open to new opportunities, so reach me if you want to build together! <br>
-  
-  ##
-  
-<p align="center">💻 - Some technologies I've been focusing in:</p>
-  
-<div align="center" style="display: inline_block"><br>
-  <a href="https://developer.android.com/" target="_blank"><img align="center" alt="Andre-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a><b>+</b>
-  <a href="https://kotlinlang.org/" target="_blank"><img align="center" alt="Andre-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a><b>+</b>
-  <a href="https://www.java.com/" target="_blank"><img align="center" alt="Andre-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a><b>+</b>
-  <a href="https://gemini.google.com/app" target="_blank"><img align="center" alt="Andre-Gemini" height="30" width="40" src="https://github.com/softdevandre/softdevandre/blob/main/gemini-color.svg"></a><b>+</b>
-  <a href="https://antigravity.google/" target="_blank"><img align="center" alt="Andre-Antigravity" height="30" width="40" src="https://github.com/softdevandre/softdevandre/blob/main/antigravity-color.svg"></a><b>+</b>
-  <a href="https://training.linuxfoundation.org/" target="_blank"><img align="center" alt="Andre-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linux/linux-original.svg"></a>
+**Software Developer transitioning into AI-Native & Forward-Deployed Engineering (FDE / AI Systems / Multiplatform Apps)** — based in São Paulo, Brazil (EU/Brazilian dual citizen).
 
-##
+After 15+ years translating complex regulatory, contract-compliance, and operational requirements in São Paulo's municipal administration into structured, auditable workflows, I focus on bridging real-world business friction and production software — combining deterministic engineering rigor, collaborative open-source experience, and AI harness design.
 
-<p align="center"> 📫 - How to reach me:</p>
+---
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/andremoraesfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Core Technical Foundation & Active Focus
+
+- **Languages & Core:** Kotlin, Java, SQL, Git / GitHub Workflows
+- **Mobile & Cross-Platform:** Android, Jetpack Compose, Ktor, Koin DI, Coroutines / `StateFlow`, Clean Architecture (Multi-module)
+- **Current Engineering Focus (2026–2027):** AI-Native Software Engineering & Harness Design (deterministic business rules + isolated AI layers, structured outputs, guardrails, automated evals, MCP, agentic workflows), Backend APIs (Java / Spring Boot, PostgreSQL, REST, JWT / RBAC, Docker), and Cross-Platform Mobile + Web product delivery.
+
+---
+
+### Verified Open-Source & Team Contributions
+
+- **[`loryblu/loryblu-android`](https://github.com/loryblu/loryblu-android)** *(Volunteer Android Developer — Multi-module Clean Architecture app supporting children with ASD)*
+  - **4 merged Pull Requests** ([`#36`](https://github.com/loryblu/loryblu-android/pull/36), [`#33`](https://github.com/loryblu/loryblu-android/pull/33), [`#16`](https://github.com/loryblu/loryblu-android/pull/16), [`#11`](https://github.com/loryblu/loryblu-android/pull/11)) + **27 public code reviews** covering end-to-end REST auth flows, Jetpack Compose UI alignment, Ktor, Koin DI, DataStore, and `StateFlow`.
+- **[`RoutinelyOrganization/routinely-mobile`](https://github.com/RoutinelyOrganization/routinely-mobile)** *(Volunteer Android Developer — Habit & task management app)*
+  - **3 merged Pull Requests** ([`#62`](https://github.com/RoutinelyOrganization/routinely-mobile/pull/62), [`#43`](https://github.com/RoutinelyOrganization/routinely-mobile/pull/43), [`#15`](https://github.com/RoutinelyOrganization/routinely-mobile/pull/15)) + **18 public code reviews** covering Forgot/Reset Password API integration, Compose screens, and team Git Flow.
+
+---
+
+### Building in Public
+
+- Actively building end-to-end compliance & AI-enabled software projects from scratch (backend services + native multiplatform mobile and web clients) and documenting architectural trade-offs and technical walkthroughs.
+
+---
+
+### Languages & Mobility
+
+- **Languages:** Portuguese (Native) • English (C1) • German (B1 → B2) • Italian (B1)
+- **Citizenship:** EU/EFTA Citizen (Italy / Brazil)
+
+---
+
+### Connect
+
+- **LinkedIn:** [linkedin.com/in/andremoraesfilho](https://www.linkedin.com/in/andremoraesfilho/)
+- **Email:** [softdev.andre@gmail.com](mailto:softdev.andre@gmail.com)
